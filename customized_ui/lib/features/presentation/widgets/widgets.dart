@@ -256,10 +256,10 @@ class CardSpendSection extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              'Oodoo',
+                              'Netflix',
                               style: TextStyle(fontWeight: FontWeight.bold),
                             ),
-                            Text('Phone Bill'),
+                            Text('Entertainment'),
                           ],
                         ),
                         Spacer(),
@@ -280,10 +280,10 @@ class CardSpendSection extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              'Swiggy',
+                              'Prime',
                               style: TextStyle(fontWeight: FontWeight.bold),
                             ),
-                            Text('Food & Drink'),
+                            Text('Entertainment'),
                           ],
                         ),
                         Spacer(),
@@ -303,10 +303,10 @@ class CardSpendSection extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              'MakeMy Trip',
+                              'Github',
                               style: TextStyle(fontWeight: FontWeight.bold),
                             ),
-                            Text('Travel'),
+                            Text('Version Control'),
                           ],
                         ),
                         Spacer(),
